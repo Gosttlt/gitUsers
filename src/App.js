@@ -1,10 +1,10 @@
-import Container from 'components/common/Container';
-import UserPageContainer from 'pages/UserPageContainer';
+import Container from 'components/shared/Container';
+import UserPage from 'pages/UserPage';
 
 function App() {
   return (
     <Container>
-      <UserPageContainer />
+      <UserPage />
     </Container>
   )
 }

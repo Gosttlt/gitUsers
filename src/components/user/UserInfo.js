@@ -1,4 +1,4 @@
-import Flex from 'components/common/Flex'
+import Flex from 'components/shared/Flex'
 
 const UserInfo = ({ children }) => {
     return (
